@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/logo.png" alt="Swift Weight Tracker logo" width="180">
+</p>
+
 # Weight Tracker
 
 A comprehensive weight and body measurement tracking app for iOS, iPadOS, and macOS built with SwiftUI and Core Data.
